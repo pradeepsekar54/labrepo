@@ -1,2 +1,2 @@
 is file has no changes
-some text added in file1
+new text
